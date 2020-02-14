@@ -1,15 +1,6 @@
 #pragma once
 /*gradeutil.h*/
 
-//
-// Prof. Joe Hummel
-// U. of Illinois, Chicago
-// CS 341, Spring 2019
-// Project #02: GradeUtil API
-//
-// Updated by Sean Deitz for
-// CS 341 Fall 2019
-// 
 
 #pragma once
 
