@@ -1,13 +1,5 @@
 /*gradeutil.cpp*/
 
-//
-// Prof. Joe Hummel
-// U. of Illinois, Chicago
-// CS 341, Spring 2019
-// Edited by Sean Deitz
-// for CS 341, Fall 2019
-// 
-
 #include <string>
 #include <sstream>
 #include <vector>
